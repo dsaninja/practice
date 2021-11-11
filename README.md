@@ -7,3 +7,5 @@
 3. [Sort binary array in linear time](src/main/java/com/dsaninja/arrays/BinaryArraySorting.java)
 4. [Given an integer array, find the maximum product of two integers in it](src/main/java/com/dsaninja/arrays/MaxProductOfTwoElements.java)
 5. [Given an integer array, find the equilibrium index in it](src/main/java/com/dsaninja/arrays/EquilibriumIndex.java)
+6. [Find majority element: Boyer–Moore Majority Vote Algorithm](src/main/java/com/dsaninja/arrays/BoyerMooreMajorityVote.java)
+7. [Move all zeros present in an array to the end](src/main/java/com/dsaninja/arrays/MoveZerosToEnd.java)
