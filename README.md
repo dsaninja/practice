@@ -9,3 +9,5 @@
 5. [Given an integer array, find the equilibrium index in it](src/main/java/com/dsaninja/arrays/EquilibriumIndex.java)
 6. [Find majority element: Boyer–Moore Majority Vote Algorithm](src/main/java/com/dsaninja/arrays/BoyerMooreMajorityVote.java)
 7. [Move all zeros present in an array to the end](src/main/java/com/dsaninja/arrays/MoveZerosToEnd.java)
+8. [Maximum Sum Subarray Problem (Kadane’s Algorithm)*](src/main/java/com/dsaninja/arrays/KadanesAlgo.java)
+9. [Sort an array in one swap whose two elements are swapped]()
