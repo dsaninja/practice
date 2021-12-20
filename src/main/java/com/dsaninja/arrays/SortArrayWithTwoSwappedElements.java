@@ -23,17 +23,20 @@ public class SortArrayWithTwoSwappedElements{
         int first = -1;
         int second = -1;
 
+        if(input.length <= 1){
+            return;
+        }
+
         for(int i = 1; i < input.length; i++){
             if(input[i] < input[i - 1]){
                 // if element at i < element at i-1
                 // then i-1 is out of position for first time
                 if(first == -1){
                     first = i - 1;
-                } else{
-                    // for second time, it's the element
-                    // at i index that is out of position
-                    second = i;
                 }
+                // for second time, it's the element
+                // at i index that is out of position
+                second = i;
             }
         }
 
@@ -48,5 +51,13 @@ public class SortArrayWithTwoSwappedElements{
         int[] input = {3, 5, 6, 9, 8, 7};
         sort(input);
         assertArrayEquals(new int[]{3, 5, 6, 7, 8, 9}, input);
+    }
+
+    @Test
+    @DisplayName("test array with 2 swapped elements when the swapped elements are at last indices")
+    public void sortArrayV2(){
+        int[] input = {1, 2, 3, 5, 4};
+        sort(input);
+        assertArrayEquals(new int[]{1, 2, 3, 4, 5}, input);
     }
 }

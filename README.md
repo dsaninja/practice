@@ -10,4 +10,4 @@
 6. [Find majority element: Boyer–Moore Majority Vote Algorithm](src/main/java/com/dsaninja/arrays/BoyerMooreMajorityVote.java)
 7. [Move all zeros present in an array to the end](src/main/java/com/dsaninja/arrays/MoveZerosToEnd.java)
 8. [Maximum Sum Subarray Problem (Kadane’s Algorithm)*](src/main/java/com/dsaninja/arrays/KadanesAlgo.java)
-9. [Sort an array in one swap whose two elements are swapped]()
+9. [Sort an array in one swap whose two elements are swapped](src/main/java/com/dsaninja/arrays/SortArrayWithTwoSwappedElements.java)
