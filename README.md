@@ -11,3 +11,7 @@
 7. [Move all zeros present in an array to the end](src/main/java/com/dsaninja/arrays/MoveZerosToEnd.java)
 8. [Maximum Sum Subarray Problem (Kadane’s Algorithm)*](src/main/java/com/dsaninja/arrays/KadanesAlgo.java)
 9. [Sort an array in one swap whose two elements are swapped](src/main/java/com/dsaninja/arrays/SortArrayWithTwoSwappedElements.java)
+
+## Linked Lists
+
+1. [Reverse a double linked list](src/main/java/com/dsaninja/linkedlists/ReverseDoubleLinkedList.java)
