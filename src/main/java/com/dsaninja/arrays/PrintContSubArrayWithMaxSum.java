@@ -17,6 +17,8 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
  *     output: {5, 6, -2, 3}
  * </pre>
  *
+ * https://www.techiedelight.com/print-continuous-subarray-with-maximum-sum/
+ *
  * @see KadanesAlgo
  */
 public class PrintContSubArrayWithMaxSum{
